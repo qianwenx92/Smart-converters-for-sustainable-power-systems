@@ -2,6 +2,8 @@
 
 Project: Data-driven control and coordination of smart converters for sustainable power system using deep reinforcement learning
 Funding source: Digital Futures and C3.ai Digital Transformation Institute
+
+
 PI: Qianwen Xu, KTH  
 co-PI: Sindri Magnússon, Stockholm University
 co-PI: Robert Pilawa-Podgurski, UC Berkeley
