@@ -5,8 +5,11 @@ Funding source: Digital Futures and C3.ai Digital Transformation Institute
 
 
 PI: Qianwen Xu, KTH  
+
 co-PI: Sindri Magnússon, Stockholm University
+
 co-PI: Robert Pilawa-Podgurski, UC Berkeley
+
 Main researcher: Mengfan Zhang, KTH, mezhang@kth.se 
 
 Code is for the paper:   
