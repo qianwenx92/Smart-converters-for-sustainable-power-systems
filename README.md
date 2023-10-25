@@ -1,6 +1,7 @@
 # Smart-converters-for-sustainable-power-systems
 
 Project: Data-driven control and coordination of smart converters for sustainable power system using deep reinforcement learning
+
 Funding source: Digital Futures and C3.ai Digital Transformation Institute
 
 
